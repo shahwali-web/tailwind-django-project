@@ -29,7 +29,6 @@ A modern blog application combining Django's powerful backend with Tailwind CSS'
 <p>
   <img src="https://img.shields.io/badge/Django-4.2-green?logo=django" alt="Django">
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite" alt="SQLite">
-  <img src="https://img.shields.io/badge/PostgreSQL-ready-blue?logo=postgresql" alt="PostgreSQL">
 </p>
 
 ---
