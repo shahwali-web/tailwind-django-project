@@ -57,6 +57,7 @@ pip install -r requirements.txt
 npm install
 
 # npm install tailwindcss @tailwindcss/cli
+npm install tailwindcss @tailwindcss/cli
 
 # Run development servers
 python manage.py runserver & npm run watch:css 
