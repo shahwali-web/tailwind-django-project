@@ -1,4 +1,4 @@
-# 🚀 Tailwind Django Blog Project
+![image](https://github.com/user-attachments/assets/206a1a06-8bde-4914-9d53-ef7b64e6335b)# 🚀 Tailwind Django Blog Project
 
 
 A modern blog application combining Django's powerful backend with Tailwind CSS's beautiful frontend components.
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 npm install
 
 # Run development servers
-python manage.py runserver & npm run dev
+python manage.py runserver & npm run watch:css 
 
 📂 Project Structure
 tailwind-django-project/
